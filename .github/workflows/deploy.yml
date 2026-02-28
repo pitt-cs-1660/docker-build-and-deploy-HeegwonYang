@@ -7,7 +7,7 @@ on:
 env:
   ACCOUNT_ID: "451790114213" # set your aws account id
   REGION: "us-east-1" # set your aws region (e.g., us-east-1)
-  REPO_NAME: "cs1660-docke" # set your ecr repository name
+  REPO_NAME: "cs1660-docker" # set your ecr repository name
 
 jobs:
   build-and-push:
